@@ -71,6 +71,7 @@
 
 <img src="https://raw.githubusercontent.com/balu-16/balu-16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+
 ###
 
 > *“Code is the bridge between ideas and impact.”*
