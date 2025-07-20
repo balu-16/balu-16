@@ -2,21 +2,22 @@
 name: Generate Snake
 
 on:
-  # This event is triggered on a schedule
   schedule:
     # Runs every 12 hours
     - cron: '0 */12 * * *'
-  # This event is triggered on a push to the main branch
   push:
     branches:
       - main
-  # This allows you to run the workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
+    # <<< ADD THIS PERMISSIONS BLOCK
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
