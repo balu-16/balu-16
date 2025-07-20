@@ -70,10 +70,11 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balu-1/balu-1/main/dist/github-contribution-grid-snake-dark.svg" />
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balu-1/balu-1/main/dist/github-contribution-grid-snake.svg" /> -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/balu-1/balu-1/main/dist/github-contribution-grid-snake.svg" /> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake-dark.svg" />
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" /> -->
+  <img alt="github-snake" src="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
 ###
 
 > *“Code is the bridge between ideas and impact.”*
