@@ -62,9 +62,11 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 
 ## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+
 <p align="left">
 
-<!-- Programming Languages -->
+<!-- Row 1 -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -74,24 +76,24 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-<!-- Web & Frameworks -->
+<!-- Row 2 -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-<!-- Tools & Libraries -->
+<!-- Row 3 -->
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-<!-- Databases -->
+<!-- Row 4 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -114,15 +116,15 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 <p align="left">
 
 <a href="mailto:balarakeshg16@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/balarakesh-gundapaneni/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+  <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
 </a>
 
 <a href="https://github.com/balu-16">
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" height="40"/>
 </a>
 
 </p>
