@@ -48,35 +48,13 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 
 ---
 
-## ⚙️ Tech Stack
-
-**Languages:**  
-JavaScript, TypeScript, Python, C++, Java  
-
-**Frontend:**  
-React, Tailwind CSS, Bootstrap  
-
-**Backend:**  
-Node.js, Express.js, NestJS  
-
-**Databases:**  
-MongoDB, PostgreSQL, MySQL  
-
-**Tools & Platforms:**  
-Docker, Git, Postman  
-
-**AI/ML & Libraries:**  
-OpenCV, Pandas, Prompt Engineering  
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=balu-16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=balu-16&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=3600" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-16&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
 
 </div>
 
@@ -149,12 +127,12 @@ OpenCV, Pandas, Prompt Engineering
 
 <div align="left">
 
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=balarakeshg16@gmail.com&tf=1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+<a href="mailto:balarakeshg16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/balarakesh-gundapaneni/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+<a href="https://www.linkedin.com/in/balarakesh-gundapaneni/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
