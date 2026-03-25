@@ -1,186 +1,26 @@
-<h1 align="left">Hi 👋, I'm Rakesh Gundapaneni</h1>
+<h1 align="center">Hi 👋, I'm Balarakesh Gundapaneni</h1>
+<h3 align="center">Mr.</h3>
 
-<h3 align="left">
-Full Stack Engineer | AI/ML Systems Builder | Backend-Focused Architect
-</h3>
+- 📫 How to reach me **balarakeshg16@gmail.com**
 
+<div> <a href = "mailto:balarakeshg16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
-I build production-grade systems with a strong focus on scalability, performance, and real-world usability.  
-Experienced in designing full-stack applications, real-time systems, and AI-powered solutions.
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 claverIt – Privacy-First Caller Identity Platform
-- Architected using **NestJS + MongoDB + WebSockets**
-- Designed trust hierarchy: **Registered → Crowd → Raw Number**
-- Built **WebSocket-authoritative chat system (stateful architecture)**
-- Enforced multi-layer security (**DB + API + WS + Frontend**)
-- Privacy-safe contact ingestion with strict consent model
-
----
-
-### 🔹 EduGenAI – AI-Powered Personalized Education Assistant
-- Built using **Google Gemini API + Python + Streamlit**
-- Designed domain-specific prompt routing
-- Real-time AI response system with feedback loop
-
----
-
-### 🔹 Cable Billing System (Production Use)
-- Real-world deployed system used by a cable operator
-- QR-based payment system + email notifications
-- Customer validation via database lookup
-
----
-
-## 🧠 System Design Highlights
-
-- Designed **real-time chat system using WebSockets**
-- Built **role-based architecture (Admin / Super Admin / Customer)**
-- Implemented **OTP-based authentication system**
-- Designed **device identity system (QR + unique codes)**
-- Applied **Row-Level Security (RLS)** for data isolation
-- Built scalable backend APIs with modular architecture
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:**  
-JavaScript, TypeScript, Python, C++, Java  
-
-**Frontend:**  
-React, Tailwind CSS, Bootstrap  
-
-**Backend:**  
-Node.js, Express.js, NestJS  
-
-**Databases:**  
-MongoDB, PostgreSQL, MySQL  
-
-**Tools & Platforms:**  
-Docker, Git, Postman  
-
-**AI/ML & Libraries:**  
-OpenCV, Pandas, Prompt Engineering  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=balu-16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=3600" height="150" />
-
-</div>
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
-
-<br/><br/>
-
-<!-- Web & Frameworks -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-
-<br/><br/>
-
-<!-- Tools & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
-
-<br/><br/>
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-
-</div>
-
----
-
-## 📊 Impact
-
-- Built **9+ production-level projects**
-- Designed **real-time systems handling concurrent users**
-- Developed **full-stack apps with authentication, payments, and deployment**
-- Built AI-powered systems using modern LLM APIs
-
----
-
-## 💡 Engineering Principles
-
-- Build systems, not just features  
-- Optimize for performance and correctness  
-- Design before implementation  
-- Focus on scalability and maintainability  
-
----
-
-## 🤝 Let's Connect
-
-<div align="left">
-
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=balarakeshg16@gmail.com&tf=1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-</a>
-
-<a href="https://www.linkedin.com/in/balarakesh-gundapaneni/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-</a>
-
-</div>
-
----
-
-## ⚡ Quote
-
-> “Code is the bridge between ideas and impact.”
-
----
-
-<!-- Optional Contribution Snake Animation -->
-
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
-</picture>
--->
