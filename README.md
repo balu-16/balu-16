@@ -11,43 +11,6 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 QubitChat – AI + Quantum-Enhanced Document Intelligence System
-- Architected an **AI-powered document intelligence system** for PDFs and images using **Gemini API + ChromaDB**
-- Generated embeddings with **50+ semantic chunks per document** for high retrieval accuracy
-- Designed a **hybrid retrieval pipeline** combining classical vector similarity + **Grover’s Algorithm (Qiskit simulation)**
-- Implemented **automatic fallback mechanism** for datasets up to **210 vectors**, ensuring reliability and performance
-
----
-
-### 🔹 Apadhbandhav – IoT-Based Emergency Response System
-- Engineered an **accident detection and emergency response system** supporting **5 roles** (User, Police, Hospital, Admin, Super Admin)
-- Built automated crash detection pipeline with **event capture + alert initiation**
-- Designed **multi-stage escalation workflow**: alerts via SMS & voice calls
-- Implemented **progressive radius expansion (5km → 10km → 20km → 40km)** to guarantee responder discovery
-
----
-
-### 🔹 IntruderVision – AI Surveillance System
-- Developed an **AI-powered surveillance system** using **OpenCV + MediaPipe**
-- Processed video streams using **2 concurrent threads** (motion tracking + intruder detection)
-- Built **3-stage pipeline**: Detection → Notification → Cloud Storage
-- Automated **evidence capture, email alerts, and archival** for continuous monitoring
-
----
-
-## 🧠 System Design Highlights
-
-- Designed **real-time chat system using WebSockets**
-- Built **role-based architecture (Admin / Super Admin / Customer)**
-- Implemented **OTP-based authentication system**
-- Designed **device identity system (QR + unique codes)**
-- Applied **Row-Level Security (RLS)** for data isolation
-- Built scalable backend APIs with modular architecture
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,6 +62,43 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 QubitChat – AI + Quantum-Enhanced Document Intelligence System
+- Architected an **AI-powered document intelligence system** for PDFs and images using **Gemini API + ChromaDB**
+- Generated embeddings with **50+ semantic chunks per document** for high retrieval accuracy
+- Designed a **hybrid retrieval pipeline** combining classical vector similarity + **Grover’s Algorithm (Qiskit simulation)**
+- Implemented **automatic fallback mechanism** for datasets up to **210 vectors**, ensuring reliability and performance
+
+---
+
+### 🔹 Apadhbandhav – IoT-Based Emergency Response System
+- Engineered an **accident detection and emergency response system** supporting **5 roles** (User, Police, Hospital, Admin, Super Admin)
+- Built automated crash detection pipeline with **event capture + alert initiation**
+- Designed **multi-stage escalation workflow**: alerts via SMS & voice calls
+- Implemented **progressive radius expansion (5km → 10km → 20km → 40km)** to guarantee responder discovery
+
+---
+
+### 🔹 IntruderVision – AI Surveillance System
+- Developed an **AI-powered surveillance system** using **OpenCV + MediaPipe**
+- Processed video streams using **2 concurrent threads** (motion tracking + intruder detection)
+- Built **3-stage pipeline**: Detection → Notification → Cloud Storage
+- Automated **evidence capture, email alerts, and archival** for continuous monitoring
+
+---
+
+## 🧠 System Design Highlights
+
+- Designed **real-time chat system using WebSockets**
+- Built **role-based architecture (Admin / Super Admin / Customer)**
+- Implemented **OTP-based authentication system**
+- Designed **device identity system (QR + unique codes)**
+- Applied **Row-Level Security (RLS)** for data isolation
+- Built scalable backend APIs with modular architecture
 
 ---
 
