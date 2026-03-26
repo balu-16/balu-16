@@ -1,119 +1,172 @@
-<h1 align="left">Hi 👋, I'm Rakesh Gundapaneni</h1>
+<p align="center">
+  <img src="https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png" alt="Rakesh Tech Banner">
+</p>
 
-<h3 align="left">
-Full Stack Engineer | AI/ML Systems Builder | Backend-Focused Architect
-</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
+  Hi, I'm Rakesh Gundapaneni
+</h1>
 
-<p align="left">
-I build production-grade systems with a strong focus on scalability, performance, and real-world usability.  
-Experienced in designing full-stack applications, real-time systems, and AI-powered solutions.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=500&lines=Full+Stack+Engineer+%7C+AI%2FML+Systems+Builder;Backend+%26+System+Design+Focused;Building+Scalable+Real-Time+Systems;Exploring+LLMs+%26+Intelligent+Systems" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/balarakesh-gundapaneni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/balu-16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:balarakeshg16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=balu-16&label=VIEWS&color=00BFFF&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About Me
 
-<div align="center">
+I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, focused on building **scalable backend systems, AI-powered applications, and real-time architectures**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=balu-16&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-16&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
-
-</div>
+- 🚀 Building production-grade **full-stack + AI systems**
+- 🧠 Strong focus on **System Design, Scalability, and Performance**
+- 🔐 Experience with **authentication systems, real-time communication, and data pipelines**
+- 🤖 Exploring **LLMs, RAG systems, and intelligent automation**
+- ⚡ Goal: Become a **Full Stack + AIML Engineer capable of building end-to-end systems**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies & Tools
-
-<p align="left">
-
-<!-- Row 1 -->
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-<br/>
-
-<!-- Row 2 -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<br/>
-
-<!-- Row 4 -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,nestjs,mongodb,postgres,mysql,docker,linux,git,opencv&perline=8"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 QubitChat – AI + Quantum-Enhanced Document Intelligence System
-- Architected an **AI-powered document intelligence system** for PDFs and images using **Gemini API + ChromaDB**
-- Generated embeddings with **50+ semantic chunks per document** for high retrieval accuracy
-- Designed a **hybrid retrieval pipeline** combining classical vector similarity + **Grover’s Algorithm (Qiskit simulation)**
-- Implemented **automatic fallback mechanism** for datasets up to **210 vectors**, ensuring reliability and performance
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
----
+### 🔹 QubitChat – AI + Quantum Document Intelligence
+- Built AI system using **Gemini API + ChromaDB**
+- Hybrid retrieval: **Vector Search + Grover’s Algorithm (Qiskit)**
+- Handles **50+ semantic chunks per document**
+- Optimized fallback for datasets up to **210 vectors**
 
-### 🔹 Apadhbandhav – IoT-Based Emergency Response System
-- Engineered an **accident detection and emergency response system** supporting **5 roles** (User, Police, Hospital, Admin, Super Admin)
-- Built automated crash detection pipeline with **event capture + alert initiation**
-- Designed **multi-stage escalation workflow**: alerts via SMS & voice calls
-- Implemented **progressive radius expansion (5km → 10km → 20km → 40km)** to guarantee responder discovery
+<strong>Tech:</strong> Python, Gemini API, ChromaDB, Qiskit  
 
----
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Apadhbandhav – Emergency Response System
+- IoT-based accident detection system
+- Supports **5 roles (User, Police, Hospital, Admin, Super Admin)**
+- Multi-stage alert escalation (5km → 40km)
+- SMS + Voice call integration
+
+<strong>Tech:</strong> Node.js, IoT, APIs  
+
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🔹 IntruderVision – AI Surveillance System
-- Developed an **AI-powered surveillance system** using **OpenCV + MediaPipe**
-- Processed video streams using **2 concurrent threads** (motion tracking + intruder detection)
-- Built **3-stage pipeline**: Detection → Notification → Cloud Storage
-- Automated **evidence capture, email alerts, and archival** for continuous monitoring
+- Built using **OpenCV + MediaPipe**
+- Multi-threaded processing (motion + detection)
+- Pipeline: Detection → Notification → Storage
+- Automated alerts + cloud archival
+
+<strong>Tech:</strong> Python, OpenCV, MediaPipe  
+
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 claverIt – Caller Identity Platform
+- Privacy-first phone identity system
+- WebSocket-based real-time chat
+- Trust hierarchy: Registered → Crowd → Raw
+- Role-based system with secure access
+
+<strong>Tech:</strong> NestJS, MongoDB, WebSockets  
+
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 EduGenAI – AI Education Assistant
+- Built with **Gemini API + Streamlit**
+- Domain-based prompt routing
+- Real-time AI responses with feedback loop
+
+<strong>Tech:</strong> Python, Streamlit, Gemini API  
+
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Cable Billing System (Production Use)
+- Real-world system used by cable operator
+- QR-based payments + email alerts
+- Database-driven validation system
+
+<strong>Tech:</strong> Node.js, Express, MySQL  
+
+<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 System Design Highlights
 
 - Designed **real-time chat system using WebSockets**
-- Built **role-based architecture (Admin / Super Admin / Customer)**
-- Implemented **OTP-based authentication system**
-- Designed **device identity system (QR + unique codes)**
-- Applied **Row-Level Security (RLS)** for data isolation
+- Built **role-based multi-tenant architecture**
+- Implemented **OTP authentication + device identity system**
+- Designed **AI retrieval pipelines (RAG-like systems)**
 - Built scalable backend APIs with modular architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balu-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balu-16&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balu-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github.com/balu-16/balu-16/raw/output/github-contribution-grid-snake.svg" />
+</p> -->
 
 ---
 
@@ -126,38 +179,6 @@ Experienced in designing full-stack applications, real-time systems, and AI-powe
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="mailto:balarakeshg16@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/balarakesh-gundapaneni/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
-</a>
-
-<a href="https://github.com/balu-16">
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" height="40"/>
-</a>
-
-</p>
-
----
-
 ## ⚡ Quote
 
 > “Code is the bridge between ideas and impact.”
-
----
-
-<!-- Optional Contribution Snake Animation -->
-
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
-</picture>
--->
