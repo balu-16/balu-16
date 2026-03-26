@@ -57,7 +57,7 @@ I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, fo
     <td width="50%" valign="top">
 
 ### 🔹 QubitChat – AI + Quantum Document Intelligence
-QubitChat is an AI-powered document intelligence system designed to extract, understand, and retrieve information from PDFs and images. The system generates semantic embeddings for documents and processes them through a hybrid retrieval pipeline that combines classical vector similarity with a simulated quantum search approach using Grover’s Algorithm. It ensures reliable performance through fallback mechanisms and supports scalable querying across multi-chunk document structures.
+AI-powered system for extracting and retrieving insights from documents using semantic embeddings. Implements a hybrid retrieval pipeline combining vector search with a simulated quantum approach for efficient querying.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -65,7 +65,7 @@ QubitChat is an AI-powered document intelligence system designed to extract, und
 <td width="50%" valign="top">
 
 ### 🔹 Apadhbandhav – Emergency Response System
-Apadhbandhav is an IoT-driven emergency response system built to detect accidents and automate rescue workflows. Upon detecting a crash event, the system initiates a multi-stage escalation process that progressively expands the search radius while triggering alerts via SMS and voice calls. It coordinates between multiple roles including users, hospitals, and authorities to ensure timely response and minimize critical delays.
+IoT-based accident detection system that automates emergency response workflows. Uses multi-stage alert escalation with increasing search radius to ensure timely rescue coordination.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -76,7 +76,7 @@ Apadhbandhav is an IoT-driven emergency response system built to detect accident
 <td width="50%" valign="top">
 
 ### 🔹 IntruderVision – AI Surveillance System
-IntruderVision is a real-time surveillance system that continuously monitors video streams to detect unauthorized activity. It uses concurrent processing pipelines to handle motion tracking and intruder detection simultaneously, ensuring low-latency responses. The system automatically captures evidence, triggers alerts, and stores data for further analysis, enabling continuous and reliable monitoring.
+Real-time surveillance system that detects unauthorized activity using concurrent video processing. Automatically captures evidence, triggers alerts, and stores data for continuous monitoring.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -85,7 +85,7 @@ IntruderVision is a real-time surveillance system that continuously monitors vid
 <td width="50%" valign="top">
 
 ### 🔹 claverIt – Caller Identity Platform
-claverIt is a privacy-first caller identity platform that builds a trusted phone-number-based identity layer. It uses a hierarchical trust model combining registered user data, crowd intelligence, and raw number signals to resolve caller identity. The platform includes real-time communication capabilities, role-based access control, and privacy-preserving data handling, making it suitable for scalable and secure identity systems.
+Privacy-first caller identity system that resolves phone number trust using layered data sources. Supports real-time communication and secure, role-based access control.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
