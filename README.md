@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png" alt="Rakesh Tech Banner">
-</p>
+</p> -->
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
