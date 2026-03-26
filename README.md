@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=500&lines=Full+Stack+Engineer+%7C+AI%2FML+Systems+Builder;Backend+%26+System+Design+Focused;Building+Scalable+Real-Time+Systems;Exploring+LLMs+%26+Intelligent+Systems" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=500&lines=Full+Stack+Engineer+%7C+AI%2FML+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Real-Time+Systems;Exploring+LLMs+%26+Intelligent+Systems" alt="Typing SVG">
   </a>
 </p>
 
