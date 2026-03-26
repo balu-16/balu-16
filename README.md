@@ -57,12 +57,7 @@ I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, fo
     <td width="50%" valign="top">
 
 ### 🔹 QubitChat – AI + Quantum Document Intelligence
-- Built AI system using **Gemini API + ChromaDB**
-- Hybrid retrieval: **Vector Search + Grover’s Algorithm (Qiskit)**
-- Handles **50+ semantic chunks per document**
-- Optimized fallback for datasets up to **210 vectors**
-
-<strong>Tech:</strong> Python, Gemini API, ChromaDB, Qiskit  
+QubitChat is an AI-powered document intelligence system designed to extract, understand, and retrieve information from PDFs and images. The system generates semantic embeddings for documents and processes them through a hybrid retrieval pipeline that combines classical vector similarity with a simulated quantum search approach using Grover’s Algorithm. It ensures reliable performance through fallback mechanisms and supports scalable querying across multi-chunk document structures.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -70,12 +65,7 @@ I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, fo
 <td width="50%" valign="top">
 
 ### 🔹 Apadhbandhav – Emergency Response System
-- IoT-based accident detection system
-- Supports **5 roles (User, Police, Hospital, Admin, Super Admin)**
-- Multi-stage alert escalation (5km → 40km)
-- SMS + Voice call integration
-
-<strong>Tech:</strong> Node.js, IoT, APIs  
+Apadhbandhav is an IoT-driven emergency response system built to detect accidents and automate rescue workflows. Upon detecting a crash event, the system initiates a multi-stage escalation process that progressively expands the search radius while triggering alerts via SMS and voice calls. It coordinates between multiple roles including users, hospitals, and authorities to ensure timely response and minimize critical delays.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -86,12 +76,7 @@ I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, fo
 <td width="50%" valign="top">
 
 ### 🔹 IntruderVision – AI Surveillance System
-- Built using **OpenCV + MediaPipe**
-- Multi-threaded processing (motion + detection)
-- Pipeline: Detection → Notification → Storage
-- Automated alerts + cloud archival
-
-<strong>Tech:</strong> Python, OpenCV, MediaPipe  
+IntruderVision is a real-time surveillance system that continuously monitors video streams to detect unauthorized activity. It uses concurrent processing pipelines to handle motion tracking and intruder detection simultaneously, ensuring low-latency responses. The system automatically captures evidence, triggers alerts, and stores data for further analysis, enabling continuous and reliable monitoring.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
@@ -100,40 +85,7 @@ I'm a **Computer Science & Engineering (AIML) student at SRM University AP**, fo
 <td width="50%" valign="top">
 
 ### 🔹 claverIt – Caller Identity Platform
-- Privacy-first phone identity system
-- WebSocket-based real-time chat
-- Trust hierarchy: Registered → Crowd → Raw
-- Role-based system with secure access
-
-<strong>Tech:</strong> NestJS, MongoDB, WebSockets  
-
-<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 EduGenAI – AI Education Assistant
-- Built with **Gemini API + Streamlit**
-- Domain-based prompt routing
-- Real-time AI responses with feedback loop
-
-<strong>Tech:</strong> Python, Streamlit, Gemini API  
-
-<a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔹 Cable Billing System (Production Use)
-- Real-world system used by cable operator
-- QR-based payments + email alerts
-- Database-driven validation system
-
-<strong>Tech:</strong> Node.js, Express, MySQL  
+claverIt is a privacy-first caller identity platform that builds a trusted phone-number-based identity layer. It uses a hierarchical trust model combining registered user data, crowd intelligence, and raw number signals to resolve caller identity. The platform includes real-time communication capabilities, role-based access control, and privacy-preserving data handling, making it suitable for scalable and secure identity systems.
 
 <a href="https://github.com/balu-16" target="_blank">🔗 View Code</a>
 
